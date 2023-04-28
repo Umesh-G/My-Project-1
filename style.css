@@ -162,6 +162,7 @@ li.active{
     width: 100%;
     padding: 20px 100px;
     font-family: sans-serif;
+    justify-content: center;
 }
 
 .member-info{
@@ -244,16 +245,16 @@ footer{
 }
 .newsletter input{
     padding: 20px;
-    width: 70%;
+    width: 60%;
     border-radius: 8px;
     border:none;
     font-family: sans-serif;
 }
 .newsletter button{
     position: absolute;
-    right: 0;
+    right: 0px;
     padding: 20px;
-    width: 30%;
+    width: 40%;
     background: #e74c3c;
     color: white;
     border: none;
@@ -269,6 +270,9 @@ footer{
     margin-top: 3em;
     border: 1px solid rgba(255,255,255,0.2);
     padding: 2rem;
+}
+.f-contact h1{
+    margin-bottom: 1.5rem;
 }
 .f-contact>div{
     flex-basis: 20%;
@@ -297,3 +301,4 @@ footer{
     color: white;
     border: 1px solid white;
 }
+
