@@ -276,6 +276,7 @@ footer{
 }
 .f-contact>div{
     flex-basis: 20%;
+    text-align: center;
 }
 .f-contact p{
     line-height: 2em;
